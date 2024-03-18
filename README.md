@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate Data Analist and Scientist from Spain</h3>
-![](https://github.com/datalou/datalou/blob/master/giphy.gif)
+
+![](https://github.com/datalou/datalou/blob/master/giphy2.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datalou&label=Profile%20views&color=0e75b6&style=flat" alt="datalou" /> </p>
