@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Lourdes Nuñez</h1>
 <h3 align="center">A passionate Data Analist and Scientist from Spain</h3>
 (img align="right" src="https://github.com/datalou/datalou/blob/master/giphy.gif")
 
