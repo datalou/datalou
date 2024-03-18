@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **datainfinita@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lourdes-n-358153180/](https://www.linkedin.com/in/lourdes-n-358153180/)
-
 - ⚡ Fun fact **I am a lawyer and Marketer**
 
 <h3 align="left">Connect with me:</h3>
