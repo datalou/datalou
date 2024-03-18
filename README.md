@@ -1,4 +1,4 @@
-![Header](./github-header-image(1).png)
+![Header](./github-header-image.png)
 <h3 align="center">A passionate Data Analist and Scientist from Spain</h3>
 
 ![](https://github.com/datalou/datalou/blob/master/giphy2.gif)
