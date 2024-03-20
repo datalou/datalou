@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at (https://datalou.github.io/)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/lourdes-n-358153180/)
 
 - 💬 Ask me about **ML MODELS**
 
