@@ -14,7 +14,7 @@
 
 - 👨‍💻 I' m looking for help with **Generative AI**
 
-- 👨‍💻 All of my projects are available at [datalou.github.io](datalou.github.io)
+- 👨‍💻 All of my projects are available at (https://datalou.github.io/)
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
